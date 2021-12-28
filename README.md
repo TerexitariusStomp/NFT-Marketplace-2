@@ -43,8 +43,12 @@ yarn test
 
 ## Template Author
 
-👤 **Dung Huynh**
+👤 ***Sun Mount***
 
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
+Donations in ETH or BTC are welcome
+
+ETH 0x1a0cFcbBe5e379c75fF1166A1b3D3507FC940Adc
+
+BNB 0x1a0cFcbBe5e379c75fF1166A1b3D3507FC940Adc
+
+BTC bc1qpxyw3k643ywdxmjdz2etuw8y9jdr8kdg7c37md
